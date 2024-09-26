@@ -42,13 +42,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- **Shiwei Li**, Huifeng Guo, Xing Tang, Ruiming Tang, Lu Hou, Ruixuan Li, Rui Zhang. Embedding Compression in Recommender Systems: A Survey. **ACM Computing Surveys**, 2024, 56(5): 1-21. (**Q1, IF=23.8**)
+- **Shiwei Li**, Wenchao Xu, Haozhao Wang, Xing Tang, Yining Qi, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li. FedBAT: Communication-Efficient Federated Learning via Learnable Binarization. The Forty-first International Conference on Machine Learning (**ICML**), Vienna, Austria, 21st-27th July, 2024. (**CCF-A**)
+- **Shiwei Li**, Yingyi Cheng, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, Xiuqiang He, Ruixuan Li. Masked Random Noise for Communication-Efficient Federated Learning. The 32nd ACM International Conference on Multimedia (**ACM MM**), Melbourne, Australia, 28th October - 1st November, 2024. (**CCF-A**)
+- **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang, Ruixuan Li. Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction. Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**)
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2017.09 - 2021.09*, B.S. at Beijing University of Posts and Telecommunications (BUPT). 
-- *2021.09 - now*, Ph.D. in HUST under the supervision of Yuhua Li and Ruixuan Li. 
+- *2017.09 - 2021.06*, B.S. at Beijing University of Posts and Telecommunications (BUPT). 
+- *2021.09 - 2026.06 (expected)*, Ph.D. in HUST under the supervision of Yuhua Li and Ruixuan Li. 
 
 # 💻 Internships
 - *2021.10 – 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China.
