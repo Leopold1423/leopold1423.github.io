@@ -37,8 +37,8 @@ My research interest includes High Performance Computing, Model Compression and 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, Ph.D. in HUST under the supervision of Yuhua Li and Ruixuan Li. 
-- *2017.09 - 2021.06*, B.S. at Beijing University of Posts and Telecommunications (BUPT). 
+- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST) under the supervision of Yuhua Li and Ruixuan Li. 
+- *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💻 Internships
 - *2023.06 – 2024.06*, [Tencent Financial Technology (FiT)], Shenzhen, China, under the supervision of [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://scholar.google.com/citations?user=3lprwmsAAAAJ&hl=zh-CN).
