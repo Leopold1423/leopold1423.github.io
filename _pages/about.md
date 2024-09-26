@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a PhD student in the Intelligent and Distributed Computing Laboratory of Huazhong University of Science and Technology (HUST), 
-under the supervision of Prof. Yuhua Li and Prof. Ruixuan Li. Before joining HUST, I got my bachelor’s degree in Beijing University of Posts and Telecommunications (BUPT).
+under the supervision of Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html) and Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Before joining HUST, I got my bachelor’s degree in Beijing University of Posts and Telecommunications (BUPT).
 
 My research interest includes High Performance Computing, Model Compression and Acceleration, and their applications in Recommender Systems, Federated Learning, and more. Recently, I have been working on Parameter-Efficient Fine-Tuning and Inference Acceleration for LLMs.
 
@@ -41,5 +41,5 @@ My research interest includes High Performance Computing, Model Compression and 
 - *2017.09 - 2021.06*, B.S. at Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💻 Internships
-- *2023.06 – 2024.06*, [Tencent Financial Technology (FiT)], Shenzhen, China.
-- *2021.10 – 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China.
+- *2023.06 – 2024.06*, [Tencent Financial Technology (FiT)], Shenzhen, China, under the supervision of [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://scholar.google.com/citations?user=3lprwmsAAAAJ&hl=zh-CN).
+- *2021.10 – 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/).
