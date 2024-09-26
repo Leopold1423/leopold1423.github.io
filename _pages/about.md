@@ -27,29 +27,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by MM 2024.
 
 # 📝 Publications 
+- **Shiwei Li**, Yingyi Cheng, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, Xiuqiang He, Ruixuan Li. Masked Random Noise for Communication-Efficient Federated Learning. The 32nd ACM International Conference on Multimedia (**ACM MM**), Melbourne, Australia, 28th October - 1st November, 2024. (**CCF-A**) [paper](https://arxiv.org/abs/2408.03220) [code](https://github.com/Leopold1423/fedmrn-mm24)
+- **Shiwei Li**, Wenchao Xu, Haozhao Wang, Xing Tang, Yining Qi, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li. FedBAT: Communication-Efficient Federated Learning via Learnable Binarization. The Forty-first International Conference on Machine Learning (**ICML**), Vienna, Austria, 21st-27th July, 2024. (**CCF-A**) [paper](https://arxiv.org/abs/2408.03215) [code](https://github.com/Leopold1423/fedbat-icml24)
+- **Shiwei Li**, Huifeng Guo, Xing Tang, Ruiming Tang, Lu Hou, Ruixuan Li, Rui Zhang. Embedding Compression in Recommender Systems: A Survey. **ACM Computing Surveys**, 2024, 56(5): 1-21. (**Q1, IF=23.8**) [paper](https://arxiv.org/abs/2408.02304) 
+- **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang, Ruixuan Li. Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction. Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**) [paper](https://arxiv.org/abs/2212.05735) [code](https://github.com/Leopold1423/alpt-aaai23)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-- **Shiwei Li**, Huifeng Guo, Xing Tang, Ruiming Tang, Lu Hou, Ruixuan Li, Rui Zhang. Embedding Compression in Recommender Systems: A Survey. **ACM Computing Surveys**, 2024, 56(5): 1-21. (**Q1, IF=23.8**)
-- **Shiwei Li**, Wenchao Xu, Haozhao Wang, Xing Tang, Yining Qi, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li. FedBAT: Communication-Efficient Federated Learning via Learnable Binarization. The Forty-first International Conference on Machine Learning (**ICML**), Vienna, Austria, 21st-27th July, 2024. (**CCF-A**)
-- **Shiwei Li**, Yingyi Cheng, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, Xiuqiang He, Ruixuan Li. Masked Random Noise for Communication-Efficient Federated Learning. The 32nd ACM International Conference on Multimedia (**ACM MM**), Melbourne, Australia, 28th October - 1st November, 2024. (**CCF-A**)
-- **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang, Ruixuan Li. Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction. Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**)
-
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2017.09 - 2021.06*, B.S. at Beijing University of Posts and Telecommunications (BUPT). 
