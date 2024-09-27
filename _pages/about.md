@@ -37,7 +37,7 @@ My research interest includes High Performance Computing, Model Compression and 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST) under the supervision of Yuhua Li and Ruixuan Li. 
+- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html) and Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
 - *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💻 Internships
