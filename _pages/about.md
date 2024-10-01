@@ -27,17 +27,20 @@ My research interest includes Model Compression and Acceleration, and their appl
 - *2024.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2024. 
 
 # 📝 Publications 
-- **Shiwei Li**, Yingyi Cheng, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, Xiuqiang He, Ruixuan Li. <u>Masked Random Noise for Communication-Efficient Federated Learning.</u> The 32nd ACM International Conference on Multimedia (**ACM MM**), Melbourne, Australia, 28th October - 1st November, 2024. (**CCF-A**) [paper](https://arxiv.org/abs/2408.03220) [code](https://github.com/Leopold1423/fedmrn-mm24)
-- **Shiwei Li**, Wenchao Xu, Haozhao Wang, Xing Tang, Yining Qi, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>FedBAT: Communication-Efficient Federated Learning via Learnable Binarization.</u> The Forty-first International Conference on Machine Learning (**ICML**), Vienna, Austria, 21st-27th July, 2024. (**CCF-A**) [paper](https://arxiv.org/abs/2408.03215) [code](https://github.com/Leopold1423/fedbat-icml24)
-- **Shiwei Li**, Huifeng Guo, Xing Tang, Ruiming Tang, Lu Hou, Ruixuan Li, Rui Zhang. <u>Embedding Compression in Recommender Systems: A Survey.</u> **ACM Computing Surveys**, 2024, 56(5): 1-21. (**Q1, IF=23.8**) [paper](https://arxiv.org/abs/2408.02304) 
-- **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang, Ruixuan Li. <u>Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction.</u> Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**) [paper](https://arxiv.org/abs/2212.05735) [code](https://github.com/Leopold1423/alpt-aaai23)
+- **Shiwei Li**, Yingyi Cheng, Haozhao Wang, Xing Tang, Shijie Xu, Weihong Luo, Yuhua Li, Dugang Liu, Xiuqiang He, Ruixuan Li. <u>Masked Random Noise for Communication-Efficient Federated Learning.</u> The 32nd ACM International Conference on Multimedia (**ACM MM**), Melbourne, Australia, 28th October - 1st November, 2024. (**CCF-A**) [[paper]](https://arxiv.org/abs/2408.03220) [[code]](https://github.com/Leopold1423/fedmrn-mm24)
+- **Shiwei Li**, Wenchao Xu, Haozhao Wang, Xing Tang, Yining Qi, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>FedBAT: Communication-Efficient Federated Learning via Learnable Binarization.</u> The Forty-first International Conference on Machine Learning (**ICML**), Vienna, Austria, 21st-27th July, 2024. (**CCF-A**) [[paper]](https://arxiv.org/abs/2408.03215) [[code]](https://github.com/Leopold1423/fedbat-icml24)
+- **Shiwei Li**, Huifeng Guo, Xing Tang, Ruiming Tang, Lu Hou, Ruixuan Li, Rui Zhang. <u>Embedding Compression in Recommender Systems: A Survey.</u> **ACM Computing Surveys**, 2024, 56(5): 1-21. (**Q1, IF=23.8**) [[paper]](https://arxiv.org/abs/2408.02304) 
+- **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang, Ruixuan Li. <u>Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction.</u> Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**) [[paper]](https://arxiv.org/abs/2212.05735) [[code]](https://github.com/Leopold1423/alpt-aaai23)
+
+# 😊 Preprint 
+- **Shiwei Li**, Zhuoqi Hu, Fuyuan Lyu, Xing Tang, Haozhao Wang, Shijie Xu, Weihong Luo, Yuhua Li, Xue Liu, Xiuqiang He, Ruixuan Li. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html) and Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm).
+- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST).
 - *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💻 Internships
