@@ -33,7 +33,7 @@ My research interest includes Model Compression and Acceleration, and their appl
 - **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang<sup>†</sup>, Ruixuan Li<sup>†</sup>. <u>Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction.</u> Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**) [[paper]](https://arxiv.org/abs/2212.05735) [[code]](https://github.com/Leopold1423/alpt-aaai23)
 
 # 😊 Preprint 
-- **Shiwei Li**, Zhuoqi Hu, Fuyuan Lyu, Xing Tang, Haozhao Wang, Shijie Xu, Weihong Luo, Yuhua Li, Xue Liu, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
+- **Shiwei Li**, Zhuoqi Hu, Xing Tang, Haozhao Wang, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -44,5 +44,5 @@ My research interest includes Model Compression and Acceleration, and their appl
 - *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💻 Internships
-- *2023.06 – 2024.06*, [Tencent Financial Technology (FiT)], Shenzhen, China, under the supervision of [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://scholar.google.com/citations?user=3lprwmsAAAAJ&hl=zh-CN).
-- *2021.10 – 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/).
+- *2023.06 – 2024.06*, [Tencent Financial Technology (FiT)], Shenzhen, China, under the supervision of Shijie Xu, Weihong Luo, [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://scholar.google.com/citations?user=3lprwmsAAAAJ&hl=zh-CN).
+- *2021.10 – 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Lu Hou](https://houlu369.github.io/), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/).
