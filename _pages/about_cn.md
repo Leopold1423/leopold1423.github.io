@@ -52,7 +52,7 @@ My primary research focuses on **Efficient Intelligent Computing**, encompassing
 # 😊 Preprint 
 <!-- - **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity</u>. The 39th Annual Conference on Neural Information Processing Systems (\textbf{NeurIPS}), 2025. (**CCF-A**) (under review) -->
 - **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity</u>. 
-- **Shiwei Li**, Zhuoqi Hu, Xing Tang, Haozhao Wang, Shijie Xu, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
+- **Shiwei Li**<sup>\*</sup>, Zhuoqi Hu<sup>\*</sup>, Fuyuan Lyu, Xing Tang, Haozhao Wang, Dugang Liu, Yuhua Li, Xiuqiang He, Rui Zhang, Ruixuan Li<sup>†</sup>. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
 - Ziqiang Cui, Yunpeng Weng, Xing Tang, Peiyang Liu, **Shiwei Li**, Bowei He, Jiamin Chen, Xiuqiang He, Chen Ma. <u>CORE: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning</u>.
 - Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, **Shiwei Li**, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, Xiuqiang He, Chen Ma. <u>Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</u>.
 
