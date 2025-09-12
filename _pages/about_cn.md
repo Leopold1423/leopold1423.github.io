@@ -20,7 +20,7 @@ redirect_from:
 I am currently a PhD student in the Intelligent and Distributed Computing ([IDC](https://idc.hust.edu.cn/index.htm)) Laboratory of Huazhong University of Science and Technology (HUST), 
 under the supervision of Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html) and Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Before joining HUST, I got my bachelor’s degree in Beijing University of Posts and Telecommunications (BUPT).
 
-My primary research focuses on **Efficient Intelligent Computing**, encompassing multiple directions such as **data selection**, **model compression**, **communication compression**, **training optimization**, and **inference optimization**, with applications spanning recommender systems, federated learning, and large language models.
+My primary research focuses on Efficient Intelligent Computing, encompassing multiple directions such as data selection, model compression, communication compression, training optimization, and inference optimization, with applications spanning recommender systems, federated learning, and large language models.
 
 <!-- My research interest includes Model Compression and Acceleration, and their applications in Recommender Systems, Distributed Training, and Large Language Models. Recently, I have been working on Parameter-Efficient Fine-Tuning and Inference Acceleration for LLMs. -->
 
