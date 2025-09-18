@@ -25,6 +25,7 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 <!-- My research interest includes Model Compression and Acceleration, and their applications in Recommender Systems, Distributed Training, and Large Language Models. Recently, I have been working on Parameter-Efficient Fine-Tuning and Inference Acceleration for LLMs. -->
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers were accepted by NeurIPS 2025.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by TPDS.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by KDD 2025 ADS Track.
 - *2025.05*: &nbsp;🎉🎉 Two papers were accepted by ICML 2025.
@@ -33,9 +34,11 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 
 # 📝 Publications 
 <!-- - Xing Tang , Chaohua Yang, Yuwen Fu, Dongyang Ao, **Shiwei Li**<sup>†</sup>, Fuyuan Lyu, Dugang Liu, and Xiuqiang He<sup>†</sup>. <u>Retrieval Augmented Cross-Domain Life Long Behavior Modeling for Enhancing Click-through Rate Prediction</u>. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), August 3-7, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs) -->
-<!-- - Shiwei Li, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li\textsuperscript{\dag}. Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation. The 39th Annual Conference on Neural Information Processing Systems (\textbf{NeurIPS}), 2025. (\textbf{CCF-A}) -->
+1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (**CCF-A**)
 
-1. **Shiwei Li**, Qunwei Li, Haozhao Wang, Ruixuan Li<sup>†</sup>, Jianbin Lin, Wenliang Zhong. <u>FedBiF: Communication-Efficient Federated Learning via Bits Freezing</u>. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2509.10161) [[code]](https://github.com/Leopold1423/fedbif-tpds25)
+1. Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, **Shiwei Li**, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, Xiuqiang He, Chen Ma. <u>Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (**CCF-A**)
+
+2. **Shiwei Li**, Qunwei Li, Haozhao Wang, Ruixuan Li<sup>†</sup>, Jianbin Lin, Wenliang Zhong. <u>FedBiF: Communication-Efficient Federated Learning via Bits Freezing</u>. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2509.10161) [[code]](https://github.com/Leopold1423/fedbif-tpds25)
 
 
 1. Jintao Tong<sup>\*</sup>, **Shiwei Li**<sup>\*</sup>, Zijian Zhuang<sup>\*</sup>, Jinghan Hu<sup>†</sup>, Yixiong Zou<sup>†</sup>. <u>EmoSync: Multi-Stage Reasoning with Multimodal Large Language Models for Fine-Grained Emotion Recognition</u>. **MRAC25 Workshop@ACM MM**, 2025. (**CCF-A**)
@@ -54,7 +57,7 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity</u>. 
 1. **Shiwei Li**<sup>\*</sup>, Zhuoqi Hu<sup>\*</sup>, Fuyuan Lyu, Xing Tang, Haozhao Wang, Dugang Liu, Yuhua Li, Xiuqiang He, Rui Zhang, Ruixuan Li<sup>†</sup>. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
 1. Ziqiang Cui, Yunpeng Weng, Xing Tang, Peiyang Liu, **Shiwei Li**, Bowei He, Jiamin Chen, Xiuqiang He, Chen Ma. <u>CORE: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning</u>.
-1. Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, **Shiwei Li**, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, Xiuqiang He, Chen Ma. <u>Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</u>.
+
 
 
 
