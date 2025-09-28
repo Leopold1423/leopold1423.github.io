@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H0egTIsAAAAJ"
-  email            : "lishiwei@hust.edu.cn"
+  email            : "leopold1423@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -46,6 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : https://dblp.org/pid/09/7826-2.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : https://orcid.org/my-orcid?orcid=0000-0002-7067-0275 # e.g., "https://orcid.org/xxxx"
+  openreview       : https://openreview.net/profile?id=%7EShiwei_Li3
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
