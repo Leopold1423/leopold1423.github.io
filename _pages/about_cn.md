@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a PhD student in the Intelligent and Distributed Computing ([IDC](https://idc.hust.edu.cn/index.htm)) Laboratory of Huazhong University of Science and Technology (HUST), 
-under the supervision of Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html) and Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). Before joining HUST, I got my bachelor’s degree in Beijing University of Posts and Telecommunications (BUPT).
+under the supervision of Prof. [Yuhua Li](https://idc.hust.edu.cn/yhli/index.html) and Prof. [Ruixuan Li](https://idc.hust.edu.cn/rxli/index.htm). 
+<!-- Before joining HUST, I got my bachelor’s degree in Beijing University of Posts and Telecommunications (BUPT). -->
 
 My primary research focuses on Efficient Intelligent Computing, encompassing multiple directions such as data selection, model compression, communication compression, training optimization, and inference optimization, with applications spanning recommender systems, federated learning, and large language models.
 
@@ -56,14 +57,14 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 3. Ziqiang Cui, Yunpeng Weng, Xing Tang, Peiyang Liu, **Shiwei Li**, Bowei He, Jiamin Chen, Xiuqiang He, Chen Ma. <u>CORE: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning</u>.
 
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST).
 - *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT). 
 
 # 💻 Internships
 - *2023.06 - 2025.08*, [Tencent Financial Technology (FiT)], Shenzhen, China, under the supervision of [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://he-Xiuqiang.github.io/).
 - *2021.10 - 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Lu Hou](https://houlu369.github.io/), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/).
-  
+   -->
 # 👨‍💻 Service
 - Area Chair: KDD 2025, KDD 2026
 - Reviewer: KDD 2025, NeurIPS 2025, MM 2025, IJCAI 2025, ECAI 2025, AAAI 2026, ICLR 2026
