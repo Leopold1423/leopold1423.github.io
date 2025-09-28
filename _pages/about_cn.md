@@ -31,7 +31,7 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by MM 2024.
 - *2024.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2024. 
 
-# 📝 Publications 
+# 📃 Publications 
 
 1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (**CCF-A**)
 
@@ -51,7 +51,7 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 2. **Shiwei Li**<sup>\*</sup>, Huifeng Guo<sup>\*</sup>, Xing Tang, Ruiming Tang, Lu Hou, Ruixuan Li<sup>†</sup>, Rui Zhang<sup>†</sup>. <u>Embedding Compression in Recommender Systems: A Survey.</u> **ACM Computing Surveys**, 2024, 56(5): 1-21. (**Q1, IF=28.0**) [[paper]](https://arxiv.org/abs/2408.02304) 
 3. **Shiwei Li**, Huifeng Guo, Lu Hou, Wei Zhang, Xing Tang, Ruiming Tang, Rui Zhang<sup>†</sup>, Ruixuan Li<sup>†</sup>. <u>Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction.</u> The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington, DC, USA, February 7-14, 2023. (**CCF-A**) [[paper]](https://arxiv.org/abs/2212.05735) [[code]](https://github.com/Leopold1423/alpt-aaai23)
 
-# 😊 Preprint 
+# 📝 Preprint 
 1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity</u>. 
 2. **Shiwei Li**<sup>\*</sup>, Zhuoqi Hu<sup>\*</sup>, Fuyuan Lyu, Xing Tang, Haozhao Wang, Dugang Liu, Yuhua Li, Xiuqiang He, Rui Zhang, Ruixuan Li<sup>†</sup>. <u>Mixed-Precision Embeddings for Large-Scale Recommendation Models.</u> [[paper]](https://arxiv.org/abs/2409.20305) [[code]](https://github.com/Leopold1423/mpe)
 3. Ziqiang Cui, Yunpeng Weng, Xing Tang, Peiyang Liu, **Shiwei Li**, Bowei He, Jiamin Chen, Xiuqiang He, Chen Ma. <u>CORE: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning</u>.
@@ -69,6 +69,6 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 - Area Chair: KDD 2025, KDD 2026
 - Reviewer: KDD 2025, NeurIPS 2025, MM 2025, IJCAI 2025, ECAI 2025, AAAI 2026, ICLR 2026
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2024.12*, Huawei Scholarship
 - *2025.09*, National Scholarship for Doctoral Students
