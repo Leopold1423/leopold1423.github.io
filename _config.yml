@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shiwei Li's Home Page"
+title                    : "Shiwei Li's HomePage"
 description              : ""
 repository               : "leopold1423/leopold1423.github.io"
 google_scholar_stats_use_cdn : true
