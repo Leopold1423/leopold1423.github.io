@@ -58,12 +58,19 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST).
-- *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT). 
+- *2021.09 - 2026.06 (expected)*, Ph.D. in Computer Application Technology, Huazhong University of Science and Technology (HUST).
+- *2017.09 - 2021.06*, B.S. in Electronic Information Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
 
-# 💻 Internships
+2021.09 – 2026.06 (expected) Ph.D. in Computer Application Technology, Huazhong University of Science and Technology (HUST)
+2017.09 – 2021.06 B.S. in Electronic Information Science and Technology, Beijing University of Posts and Telecommunications (BUPT)
+<!-- 
+# 📖 Educations
+- *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST).
+- *2017.09 - 2021.06*, B.S. in Beijing University of Posts and Telecommunications (BUPT).  -->
+
+<!-- # 💻 Internships
 - *2023.06 - 2025.08*, [Tencent Financial Technology (FiT)], Shenzhen, China, under the supervision of [Xing Tang](https://xingt-tang.github.io/) and [Xiuqiang He](https://he-Xiuqiang.github.io/).
-- *2021.10 - 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Lu Hou](https://houlu369.github.io/), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/).
+- *2021.10 - 2022.09*, [Huawei Noah's Ark Lab], Shenzhen, China, under the supervision of [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ&hl=zh-CN), [Lu Hou](https://houlu369.github.io/), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN) and [Rui Zhang](https://www.ruizhang.info/). -->
   
 # 👨‍💻 Service
 - Area Chair: KDD 2025, KDD 2026
