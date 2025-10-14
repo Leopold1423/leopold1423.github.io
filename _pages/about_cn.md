@@ -61,8 +61,6 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 - *2021.09 - 2026.06 (expected)*, Ph.D. in Computer Application Technology, Huazhong University of Science and Technology (HUST).
 - *2017.09 - 2021.06*, B.S. in Electronic Information Science and Technology, Beijing University of Posts and Telecommunications (BUPT). 
 
-2021.09 – 2026.06 (expected) Ph.D. in Computer Application Technology, Huazhong University of Science and Technology (HUST)
-2017.09 – 2021.06 B.S. in Electronic Information Science and Technology, Beijing University of Posts and Telecommunications (BUPT)
 <!-- 
 # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, Ph.D. in Huazhong University of Science and Technology (HUST).
