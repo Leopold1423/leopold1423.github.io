@@ -33,15 +33,17 @@ My primary research focuses on Efficient Intelligent Computing, encompassing mul
 
 # 📃 Publications 
 
-1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (**CCF-A**)
+1. **Shiwei Li**, Xiandi Luo, Haozhao Wang, Xing Tang, Ziqiang Cui, Dugang Liu, Yuhua Li, Xiuqiang He, Ruixuan Li. <u>Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), San Diego, USA, December 2–7, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2510.23123) [[code]](https://github.com/Leopold1423/toplora-neurips25)
 
-1. Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, **Shiwei Li**, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, Xiuqiang He, Chen Ma. <u>Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (**CCF-A**)
-
-1. **Shiwei Li**, Qunwei Li, Haozhao Wang, Ruixuan Li<sup>†</sup>, Jianbin Lin, Wenliang Zhong. <u>FedBiF: Communication-Efficient Federated Learning via Bits Freezing</u>. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2509.10161) [[code]](https://github.com/Leopold1423/fedbif-tpds25)
+1. Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, **Shiwei Li**, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, Xiuqiang He, Chen Ma. <u>Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</u>. The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**), San Diego, USA, December 2–7, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2503.04162) [[code]](https://github.com/ziqiangcui/SRA-CL)
 
 
-1. Jintao Tong<sup>\*</sup>, **Shiwei Li**<sup>\*</sup>, Zijian Zhuang<sup>\*</sup>, Jinghan Hu<sup>†</sup>, Yixiong Zou<sup>†</sup>. <u>EmoSync: Multi-Stage Reasoning with Multimodal Large Language Models for Fine-Grained Emotion Recognition</u>. **MRAC25 Workshop@ACM MM**, 2025. (**CCF-A**)
-1. Xing Tang , Chaohua Yang, Yuwen Fu, Dongyang Ao, **Shiwei Li**<sup>†</sup>, Fuyuan Lyu, Dugang Liu, and Xiuqiang He<sup>†</sup>. <u>Retrieval Augmented Cross-Domain Life Long Behavior Modeling for Enhancing Click-through Rate Prediction</u>. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), August 3-7, 2025. (**CCF-A**) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3737261)
+1. **Shiwei Li**, Qunwei Li, Haozhao Wang, Ruixuan Li<sup>†</sup>, Jianbin Lin, Wenliang Zhong. <u>FedBiF: Communication-Efficient Federated Learning via Bits Freezing</u>. IEEE Transactions on Parallel and Distributed Systems (**TPDS**), 2025, 36(12): 2668–2678. (**CCF-A**) [[paper]](https://arxiv.org/abs/2509.10161) [[code]](https://github.com/Leopold1423/fedbif-tpds25)
+
+
+1. Jintao Tong<sup>\*</sup>, **Shiwei Li**<sup>\*</sup>, Zijian Zhuang<sup>\*</sup>, Jinghan Hu<sup>†</sup>, Yixiong Zou<sup>†</sup>. <u>EmoSync: Multi-Stage Reasoning with Multimodal Large Language Models for Fine-Grained Emotion Recognition</u>. Proceedings of the 3rd International Workshop on Multimodal and Responsible Affective Computing (**MRAC25 Workshop@ACM MM**), Dublin, Ireland, October 27–31, 2025. (**CCF-A**) [[paper]](https://dl.acm.org/doi/10.1145/3746270.3760231)
+
+1. Xing Tang , Chaohua Yang, Yuwen Fu, Dongyang Ao, **Shiwei Li**<sup>†</sup>, Fuyuan Lyu, Dugang Liu, and Xiuqiang He<sup>†</sup>. <u>Retrieval Augmented Cross-Domain Life Long Behavior Modeling for Enhancing Click-through Rate Prediction</u>. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), Toronto, Canada, August 3-7, 2025. (**CCF-A**) [[paper]](https://dl.acm.org/doi/10.1145/3711896.3737261)
 
 
 1. **Shiwei Li**<sup>\*</sup>, Xiandi Luo<sup>\*</sup>, Haozhao Wang<sup>†</sup>, Xing Tang<sup>†</sup>, Hao Chen, Weihong Luo, Yuhua Li, Xiuqiang He, Ruixuan Li<sup>†</sup>. <u>Beyond Zero Initialization: Investigating the Impact of Non-Zero Initialization on LoRA Fine-Tuning Dynamics.</u> The 42nd International Conference on Machine Learning (**ICML**), Vancouver, Canada, July 13-19, 2025. (**CCF-A**) [[paper]](https://arxiv.org/abs/2505.23194) [[code]](https://github.com/Leopold1423/non_zero_lora-icml25)
